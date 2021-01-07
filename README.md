@@ -24,6 +24,7 @@ Per importare il progetto è sufficiente scaricare il branch ed importare la car
 
 Recarsi sul branch desiderato utilizzando il menù in alto a **sinistra** (attualmente è *main*)
 scaricare il file **zip** dal menù **Code** in alto a destra.
+
 Su netbeans andare su *File -> Import Project -> From ZIP* e selezionare lo zip di origine (quello appena scaricato) e la cartella locale di destinazione. 
 
 #### Metodo cli
