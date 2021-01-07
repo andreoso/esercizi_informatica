@@ -8,13 +8,17 @@ Per importare il progetto è sufficiente scaricare il branch ed importare la car
 
 
 
+## Esercizi
+
+
+
 | branch | descrizione                 |
 | ------ | --------------------------- |
 | es1    | esercizio sull'ereditarietà |
 
 
 
-### Come scaricare il progetto
+## Come scaricare il progetto
 
 #### Metodo stand alone
 
@@ -22,12 +26,14 @@ Recarsi sul branch desiderato utilizzando il menù in alto a **sinistra** (attua
 
 scaricare il file **zip** dal menù **Code** in alto a destra.
 
-Estrarre il file zip ed importare la cartella *esercizi_informatica-esX* (dove X è l'indice desiderato) come progetto nell'ide NetBeans.
-
-
+Su netbeans andare su *File -> Import -> From ZIP* 
 
 #### Metodo cli
 
 Per scaricare il progetto tramite git
 
 **WORK IN PROGRESS*
+
+
+
+**Nota: i file progetto sono nella versione 12.1 dell'IDE.** Con versioni precedenti potrebbero verificarsi problemi di compatibilità.
