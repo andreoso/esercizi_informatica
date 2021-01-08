@@ -1,12 +1,12 @@
-# Esercizi in java
-## Esercizi di informatica svolti nel corso di telecomunicazioni
+# Esercizi Informatica
+## Esercizi di informatica in java svolti nel corso di telecomunicazioni
 
 La struttura del **repo** suddivide ogni esercizio/compito (più esercizi per compito) in un **branch** a se.
 
 Il codice è scritto in java utilizzando l'ide Apache **NetBeans**.
 Per importare il progetto è sufficiente scaricare il branch ed importare la cartella come progetto.
 
-
+Ogni branch è corredato di un file README.md contenente la traccia e la descrizione dell'esercizio.
 
 ## Esercizi
 
