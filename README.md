@@ -64,6 +64,6 @@ Scaricherà l'esercizio 1 (es1) in una sottocartella che si chiamerà "esercizi_
 
 Potrete ora aprire la cartella come progetto dal menù *apri* dell'ide.
 
-
+------
 
 **Nota: i file progetto sono nella versione 12.1 dell'IDE.** Con versioni precedenti potrebbero verificarsi problemi di compatibilità.
