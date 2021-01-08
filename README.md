@@ -25,13 +25,44 @@ Per importare il progetto è sufficiente scaricare il branch ed importare la car
 Recarsi sul branch desiderato utilizzando il menù in alto a **sinistra** (attualmente è *main*)
 scaricare il file **zip** dal menù **Code** in alto a destra.
 
-Su netbeans andare su *File -> Import Project -> From ZIP* e selezionare lo zip di origine (quello appena scaricato) e la cartella locale di destinazione. 
+Su netbeans andare su *File -> Import Project -> From ZIP* e selezionare lo zip di origine (quello appena scaricato) e la cartella locale di destinazione. (funziona con NetBeans **12.1+**) 
+
+Qualora l'importazione nativa tramite NetBeans non funzionasse, si può procedere alla copia manuale dei singoli file.
+
+I files sono disposti nell'albero delle cartelle come segue:
+
+```
+//esempio con es1
+
+es1
+│
+└───src
+    └───es1
+            Es1.java
+            Impiegato.java
+            Pensionato.java
+            Persona.java
+```
+
+Sarà sufficiente copiare i files terminanti in *.java* nel proprio ambiente di lavoro.
 
 #### Metodo cli
 
-Per scaricare il progetto tramite git
+Per scaricare il progetto tramite git da riga di comando:
 
-**WORK IN PROGRESS*
+```
+git clone -b branch https://github.com/andreoso/esercizi_informatica.git
+```
+
+Esempio con es1:
+
+```
+git clone -b es1 https://github.com/andreoso/esercizi_informatica.git
+```
+
+Scaricherà l'esercizio 1 (es1) in una sottocartella che si chiamerà "esercizi_informatica-es1". 
+
+Potrete ora aprire la cartella come progetto dal menù *apri* dell'ide.
 
 
 
